@@ -4,6 +4,7 @@ This is an area for the Random Reminder webpage/bug tracking feature of both iOS
 ## Issues
 If you want to submit a bug for the app, you may do so [here](https://github.com/somoso/random-reminder-page/issues), or alternatively email randomreminder [at] fastmail [dot] co [dot] uk.
 
+
 ## Privacy Policy
 
 Random Reminder does not collect data about you at all. There are no analytics in the app, even to determine a bug crash. This is intentional to protect your privacy as much as possible. If crashes and bugs are a frequent occurrence, I may seek out an crash analytics tool for iOS and Android, but it will be done with careful consideration with user privacy.
